@@ -1,3 +1,6 @@
+"""
+主张抛出了某种异常
+"""
 import pytest
 
 def divide(a, b):
